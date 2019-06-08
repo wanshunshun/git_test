@@ -12,5 +12,6 @@ public class A {
     }
     public void text(){
         int i=0;
+        System.out.println(i);
     }
 }
