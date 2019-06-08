@@ -10,4 +10,7 @@ public class A {
         System.out.println("1111111");
         System.out.println("1111111");
     }
+    public void text(){
+        int i=0;
+    }
 }
